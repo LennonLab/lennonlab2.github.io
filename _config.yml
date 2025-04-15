@@ -137,6 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/jaytlennon.bsky.social"
 
 # Site Footer
 footer:
@@ -160,7 +163,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      # url:
 
 # Reading Files
 include:
