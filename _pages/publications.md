@@ -9,7 +9,7 @@ header:
 ---
 
 <!--- pub entry --->
-Lennon JT, Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (2025) Microbial solutions for climate change require global partnership. mBio 16: 10.1128/mbio.00778-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025a.pdf))
+Lennon JT, Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (2025) Microbial solutions for climate change require global partnership. mBio 16: 10.1128/mbio.00778-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025a.pdf)) 
 
 
 <!--- pub entry --->
