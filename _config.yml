@@ -152,11 +152,11 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/LennonLab"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: "fab fa-fw fa-github"
-      url: "https://github.com/LennonLab"
+      #url: "https://github.com/LennonLab"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
@@ -165,7 +165,7 @@ footer:
       # url:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
-      # url:
+      url: "https://bsky.app/profile/jaytlennon.bsky.social"
 
 # Reading Files
 include:
