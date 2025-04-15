@@ -14,7 +14,7 @@ feature_row1:
               *Research Interests*: Ecology, evolution, and biodiversity of microbial systems <br>
               [Google Scholar](https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en&inst=13098912254855678857) <br>
               [ORCiD](https://orcid.org/0000-0003-3126-6111)"
-    url: "/cv/"
+    url: "/assets/docs/Lennon_CV.pdf"
     btn_class: "btn--primary"
     btn_label: "   CV   "
 
